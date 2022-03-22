@@ -3,12 +3,12 @@
 ## Setup
 
 - clojure --version => Clojure CLI version 1.10.3.1087
-- MacBook Pro (13-inch, M1, 2020)
+- MacBook Pro (13-inch, M1, 2020) **(restarted before test)**
 - java --version => 
   - openjdk 17.0.2 2022-01-18
   - OpenJDK Runtime Environment Homebrew (build 17.0.2+0)
   - OpenJDK 64-Bit Server VM Homebrew (build 17.0.2+0, mixed mode, sharing)
-- VS Code
+- VS Code **(clean installation, all VSCode directories deleted)**
   - Version: 1.65.2
   - Commit: c722ca6c7eed3d7987c0d5c3df5c45f6b15e77d1
   - Date: 2022-03-10T14:42:05.236Z (1 wk ago)
