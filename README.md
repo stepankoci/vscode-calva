@@ -27,8 +27,8 @@
 - open browser at http://localhost:8000/ => shows *Hi World* in console (compilation is working)
 - **lsp is running, code navigation, lint etc is working**
 - `cmd+shift+p` + connect to a running REPL server in the project
-  - choosen: deps.edn + shadow-cljs
-  - choosen: localhost:port
-  - choosen: :app
+  - chosen: deps.edn + shadow-cljs
+  - chosen: localhost:port
+  - chosen: :app
 - repl is running and code evaluation is working
-- **code navifation, lint erc is not working**
+- **code navigation, lint etc is not working**
