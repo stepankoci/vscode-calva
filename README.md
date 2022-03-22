@@ -1,5 +1,9 @@
 # VSCode + Calva + deps.edn + shadow-cljs
 
+
+**Problem fixed in #1**
+
+
 ## Setup
 
 - clojure --version => Clojure CLI version 1.10.3.1087
